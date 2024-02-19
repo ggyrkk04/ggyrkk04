@@ -1,4 +1,8 @@
-### Hello, World! 👋 My name is Yu Han. 
+<div align=center>
+Hello, World! 👋 My name is Yu Han. 👽
+
+
+
 
 <!--
 **ggyrkk04/ggyrkk04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +19,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://blog.naver.com/happy_____end"><img src="https://img.shields.io/badge/My blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/happy_____end"/></a>
+<a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
-<img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=3776AB"/><img src="https://img.shields.io/badge/C++-skyblue?style=flat&logo=cplusplus&logoColor=00599C"/><img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=E34F26"/><img src="https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/Adobe Photoshop-purple?style=flat&logo=adobephotoshop&logoColor=31A8FF"/><img src="https://img.shields.io/badge/Adobe Illustrator-coral?style=flat&logo=adobeillustrator&logoColor=FF9A00"/><img src="https://img.shields.io/badge/Adobe Premiere Pro-pink?style=flat&logo=Adobe Premiere Pro&logoColor=9999FF"/>
+
+
+🤖SKILLS
+
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffffff"/></a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/></a></a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/></a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff"/></a></a><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=ffffff"/></a></a><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=ffffff"/></a><img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=ffffff"/></a>
+
+</div>
