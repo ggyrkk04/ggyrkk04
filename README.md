@@ -24,9 +24,13 @@ Here are some ideas to get you started:
 
 
 
-
 🤖SKILLS
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffffff"/></a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/></a></a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/></a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff"/></a></a><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=ffffff"/></a></a><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=ffffff"/></a><img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=ffffff"/></a>
 
+
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아직안함ㅋㅋ)](https://solved.ac/백준아이디/)
 </div>
